@@ -1,0 +1,20 @@
+table{
+    width: 510px;
+}
+
+#meme-title td{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#country-flag img{
+    max-width: 250px;
+}
+
+#country-text td{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    vertical-align: top;
+}
